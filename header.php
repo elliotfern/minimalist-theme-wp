@@ -5,13 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-<meta name="keywords" content="Webdesign, webdeveloper, e-learning, history, Elliot Fernandez webpage">
+<meta name="keywords" content=" ">
 <meta name="robots" content="index, follow, noodp, noydir">
 <link rel="shortcut icon" href="<?php bloginfo('url'); ?>/favicon.ico">
-<link rel="alternate" title="Elliot.cat RSS" type="application/rss+xml" href="<?php bloginfo('url'); ?>/feed/">
-<meta name="p:domain_verify" content="c6b6ca723d6fe85551e9aee3ae047e84"/>
-<meta property="fb:pages" content="601702369978554" />
-<meta itemprop="homeLocation" content="Spain">
+<link rel="alternate" title="RSS" type="application/rss+xml" href="<?php bloginfo('url'); ?>/feed/">
+
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="<?php bloginfo('url'); ?>/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="<?php bloginfo('url'); ?>/wp-includes/wlwmanifest.xml"> 
 <link rel="profile" href="http://gmpg.org/xfn/11">
@@ -28,25 +26,20 @@ body{margin:0;background-color:#E3E2E2}#content{width:96%;max-width:1000px;displ
 <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
 <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
 
-</head>
+ </head>
 <body>
-
 <div id="content">
-
 <div id="header_titol_pagina">
- <a href="<?php bloginfo('url'); ?>" title="Elliot Fernandez">Elliot Fernandez</a>  
- <h5>*Avís de cookies: utilitzem cookies de tercers per millorar la gestió d'aquest web.</h5>
+ <a href="<?php bloginfo('url'); ?>">WebPage Title</a>  
  </div>
-
  <div id="header-menu">
 <ul>
-   <li><a href="https://www.facebook.com/ElliotFern/" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/facebook_icon_mini.png" alt="Facebook" title="Facebook" height="25" width="25"></amp-img> </a></li>
-   <li><a href="https://twitter.com/Elliot_Fern" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/twitter_icon_mini.png" alt="Facebook" title="Twitter" height="25" width="25"></amp-img> </a></li>
-   <li><a href="https://google.com/+ElliotFern" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/googleplus_icon_mini.png" alt="Googleplus" title="Facebook" height="25" width="25"></amp-img> </a></li>
-   <li><a href="https://www.linkedin.com/in/elliotfernandez" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/linkedin_icon_mini.png" alt="Linkedin" title="Linkedin" height="25" width="25"></amp-img> </a></li>
-   <li><a href="https://www.flickr.com/photos/elliotfern/" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/flickr_icon_mini.png" alt="Flickr" title="Flickr" height="25" width="25"></amp-img> </a></li>
-   <li><a href="https://www.instagram.com/elliot_fern/" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/instagram_icon_mini.png" alt="Instagram" title="Instagram" height="25" width="25"></amp-img></a></li>
-
+   <li><a href="https://www.facebook.com/" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/facebook_icon_mini.png" alt="Facebook" title="Facebook" height="25" width="25"></amp-img> </a></li>
+   <li><a href="https://twitter.com/" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/twitter_icon_mini.png" alt="Facebook" title="Twitter" height="25" width="25"></amp-img> </a></li>
+   <li><a href="https://google.com/" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/googleplus_icon_mini.png" alt="Googleplus" title="Facebook" height="25" width="25"></amp-img> </a></li>
+   <li><a href="https://www.linkedin.com/z" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/linkedin_icon_mini.png" alt="Linkedin" title="Linkedin" height="25" width="25"></amp-img> </a></li>
+   <li><a href="https://www.flickr.com/" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/flickr_icon_mini.png" alt="Flickr" title="Flickr" height="25" width="25"></amp-img> </a></li>
+   <li><a href="https://www.instagram.com/" target="_blank"> <amp-img src="<?php bloginfo('url'); ?>/img/icon/instagram_icon_mini.png" alt="Instagram" title="Instagram" height="25" width="25"></amp-img></a></li>
    </ul>
 </div>
 
